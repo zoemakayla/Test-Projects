@@ -1,0 +1,54 @@
+nav a{
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.brief{
+    color: rgb(27, 27, 29);
+    font: bold;
+    font-size: 14px;
+font-weight: 400;
+    margin: 0 20px;
+    margin-top: 10px;
+}
+h1{
+    margin: 0 20px;
+    margin-top: 20px;
+}
+p{
+    margin: 0 20px; 
+    margin-top: 20px;
+    font-weight: bold;
+    color: darkblue;
+}
+footer{
+    margin: 0 20px;
+    color: green;
+    font-size: small;
+    font-style: italic;
+    margin-bottom: auto;
+    margin-top: 250px;
+}
+form{
+    margin-top: 20px;
+    margin: 20px;
+ input, label{
+    margin-block: 5px;
+    color: brown;
+ }
+ 
+}
+img{
+    margin-left: 20px;
+    height: 250px;
+    border: indigo;
+    border-style: double;
+    border-radius: 0svw;
+}
+h2{
+    margin: 20px;
+}
+h5{
+    margin: 0 20px; margin-top: 10px;
+}
